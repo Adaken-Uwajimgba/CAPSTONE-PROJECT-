@@ -17,9 +17,14 @@ The Data source used for this Analysis is the Data Sales.csv files and this is a
    - Quering Data
 3) Power BI
    - Data Cleaning,
-   - Analysis
    - Data Visualization
+   - For Reporting
 4) GitHub
    - Portfolio Building
 
+## DATA CLEANING AND PREPARATION
+In the Preliminary Stage of the Data cleaning and preparations, we implemented the following actions:-
+- i) Data loading and Inspection
+- ii) Removal of Duplicates
+- iii) Data cleaning and Formatting
 
