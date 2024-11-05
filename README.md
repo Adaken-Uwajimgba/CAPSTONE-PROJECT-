@@ -38,3 +38,13 @@ EDA consists of the exploring of this Data to give Answers to some questions suc
 - Find the Top 5 Customers by total Purchase amount
 - Calculate the Percentage of Total Sales contributed by each Region
 - Identify Products with no Sales in the Last Quarter
+
+## DATA ANALYSIS
+This is where we include some Basic lines of code/Queries or even some of the DAX expressions used during the Analysis;
+```SQL
+SELECT product,
+SUM(Total_revenue) AS TOTAL_Revenue
+from
+[dbo].[LITA PROJECT_1-SALES Analysis]
+GROUP BY product
+```
