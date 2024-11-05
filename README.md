@@ -1,6 +1,23 @@
 ## CAPSTONE-PROJECT
 # PROJECT TITLE:SALES ANALYSIS
 
+## OUTLINES
+---
+[PROJECT SYNOPSIS FOR SALES DATA](#project-synopsis-for-sales-data)
+
+[DATA SOURCES](#data-sources)
+
+[ATTRIBUTE DESCRIPTION FOR SALES DATA](#attribute-description-for-sales-data)
+
+[TOOLS USED](#tools-used)
+
+[DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
+[DATA ANALYSIS](#data-analysis)
+
+
 ### PROJECT SYNOPSIS FOR SALES DATA
 ---
 The aim of this Data Analysis is to evaluate the Sales Performance of a Retail store over a Specified Period of Time. The Dataset encompasses a detailed view of customer Orders, Product,Region and the Sales/Revenue generated. The Sales Data provided will be used to Identify Monthly Sales Key Trends, uncovering Key Insights Such as Regional Performance,Top-Selling Products e.t.c
