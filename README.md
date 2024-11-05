@@ -28,3 +28,13 @@ In the Preliminary Stage of the Data cleaning and preparations, we implemented t
 - ii) Removal of Duplicates
 - iii) Data cleaning and Formatting
 
+## EXPLORATORY DATA ANALYSIS
+EDA consists of the exploring of this Data to give Answers to some questions such as;
+- Retrieve the total Sales for each Product Category
+- Find the number of sales transactions in each region
+- Find the Highest-selling Product by total Sales value
+- Calculate total Revenue per Product
+- Calculate Monthly Sales totals for the Current Year
+- Find the Top 5 Customers by total Purchase amount
+- Calculate the Percentage of Total Sales contributed by each Region
+- Identify Products with no Sales in the Last Quarter
