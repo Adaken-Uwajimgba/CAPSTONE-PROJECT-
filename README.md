@@ -48,3 +48,10 @@ from
 [dbo].[LITA PROJECT_1-SALES Analysis]
 GROUP BY product
 ```
+```SQL
+SELECT TOP 1 Product,
+SUM(Total_Revenue)AS Total_Revenue
+from [dbo].[LITA PROJECT_1-SALES Analysis]
+Group by Product
+ORDER BY Total_Revenue DESC
+```
