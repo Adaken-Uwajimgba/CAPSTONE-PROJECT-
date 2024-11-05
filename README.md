@@ -9,6 +9,17 @@ The aim of this Data Analysis is to evaluate the Sales Performance of a Retail s
 ---
 The Data source used for this Analysis is the Data Sales.csv files and this is an open source Data that can be freely downloaded from any open source Platform such as [Kaggle](https://www.kaggle.com/datasets),[FRED](https://appsource.microsoft.com/en-us/product/office365/wa200003692?tab=overview) e.t.c
 
+### ATTRIBUTE DESCRIPTION FOR SALES DATA
+---
+- OrderID: A distinct identifier for each order.
+- CustomerId: A distinct identifier for each customer placing an order.
+- Product: The particular item purchased in each transaction.
+- Region: The geographical location (i.e North, South, East, West) where the order was placed.
+- OrderDate: The date when the order was made.
+- Quantity: The number of units purchased for each product in an order.
+- UnitPrice: The price per unit of the product.
+- Total Sales: The total sales value for the order: calculated as Quantity * UnitPrice
+
 ### TOOLS USED
 ---
 1) Microsoft Excel(xlxs)
