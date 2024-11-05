@@ -9,17 +9,17 @@ The Data source used for this Analysis is the Data Sales.csv files and this is a
 
 ## TOOLS USED
 1) Microsoft Excel(xlxs)
-   -Data Cleaning
-   -Pivot Tables
-   -Analysis
-   -Data Visualization.
+   - Data Cleaning
+   - Pivot Tables
+   - Analysis
+   - Data Visualization.
 2) Structured Query Language(SQL)
-   -Quering Data
+   - Quering Data
 3) Power BI
-   -Data Cleaning,
-   -Analysis
-   -Data Visualization
+   - Data Cleaning,
+   - Analysis
+   - Data Visualization
 4) GitHub
-   -Portfolio Building
+   - Portfolio Building
 
 
