@@ -48,21 +48,22 @@ The Data source used for this Analysis is the Data Sales.csv files and this is a
 - UnitPrice: The price per unit of the product.
 - Total Sales: The total sales value for the order: calculated as Quantity * UnitPrice
 
-### TOOLS USED
+### APPROACH
 ---
-1) Microsoft Excel(xlxs)
+#### Tools Used
+---
+1) [Microsoft Excel(xlxs)](https://www.microsoft.com/en-us/microsoft-365/excel)
    - Data Cleaning
    - Pivot Tables
    - Analysis
    - Data Visualization.
-2) Structured Query Language(SQL)
+2) Structured Query Language([SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2022))
    - Quering Data
-3) Power BI
+3) [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
    - Data Cleaning,
    - Data Visualization
    - For Reporting
-4) GitHub
-   - Portfolio Building
+
 
 ### DATA CLEANING AND PREPARATION
 ---
