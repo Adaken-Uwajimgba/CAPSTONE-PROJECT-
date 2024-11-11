@@ -3,11 +3,11 @@
 
 ## OUTLINES
 ---
-[PROJECT SYNOPSIS FOR SALES DATA](#project-synopsis-for-sales-data)
+[SYNOPSIS](#synopsis)
 
-[DATA SOURCES](#data-sources)
+[OVERVIEW](#overview)
 
-[ATTRIBUTE DESCRIPTION FOR SALES DATA](#attribute-description-for-sales-data)
+[DATA DESCRIPTION](#data-description)
 
 [TOOLS USED](#tools-used)
 
@@ -18,16 +18,27 @@
 [DATA ANALYSIS](#data-analysis)
 
 
-### PROJECT SYNOPSIS FOR SALES DATA
+### SYNOPSIS
 ---
 The aim of this Data Analysis is to evaluate the Sales Performance of a Retail store over a Specified Period of Time. The Dataset encompasses a detailed view of customer Orders, Product,Region and the Sales/Revenue generated. The Sales Data provided will be used to Identify Monthly Sales Key Trends, uncovering Key Insights Such as Regional Performance,Top-Selling Products e.t.c
 
-### DATA SOURCES
+### OVERVIEW
+---
+#### Problem Outline
+This Project is charged to conduct a comprehensive Sales Analysis to identify  factors contributing to it's current performance so as to make informed Decisions concerning the next moves to make that will be beneficial to the Retail store.
+
+#### Goals
+1) To Uncover Critical Insights such as identifying the Top-selling Products, the top-selling Regions
+2) To understand the underlying trends and how they impact on Sales
+3) To Predict future trends based on Customer Preference and Sales pattern
+
+### DATA DESCRIPTION
+---
+#### Data Sources
 ---
 The Data source used for this Analysis is the Data Sales.csv files and this is an open source Data that can be freely downloaded from any open source Platform such as [Kaggle](https://www.kaggle.com/datasets),[FRED](https://appsource.microsoft.com/en-us/product/office365/wa200003692?tab=overview) e.t.c
 
-### ATTRIBUTE DESCRIPTION FOR SALES DATA
----
+#### Data Characteristics
 - OrderID: A distinct identifier for each order.
 - CustomerId: A distinct identifier for each customer placing an order.
 - Product: The particular item purchased in each transaction.
