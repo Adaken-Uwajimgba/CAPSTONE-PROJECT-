@@ -98,3 +98,11 @@ from [dbo].[LITA PROJECT_1-SALES Analysis]
 Group by Product
 ORDER BY Total_Revenue DESC
 ```
+#### Using SQL For Data Analysis
+Below are the uploaded screenshots of each query which we ran while exploring the Data.
+First we create our Database called 
+```SQL
+CREATE DATABASE LITA PROJECT1_SALES
+```
+- Query 1;Retrieve the total Sales for each Product Category
+ ![Screenshot (20)](https://github.com/user-attachments/assets/1341cac3-fc96-4021-ac3d-fcc1a2b99c1e)
