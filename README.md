@@ -106,3 +106,28 @@ CREATE DATABASE LITA PROJECT1_SALES
 ```
 - Query 1;Retrieve the total Sales for each Product Category
  ![Screenshot (20)](https://github.com/user-attachments/assets/1341cac3-fc96-4021-ac3d-fcc1a2b99c1e)
+
+- Query 2;Find the Number of Sales transactions in each Region
+![Screenshot (21)](https://github.com/user-attachments/assets/4f151216-c3a3-4e33-8c60-179450163654)
+
+- Query 3;Find the highest selling Product by Total sales value
+![Screenshot (22)](https://github.com/user-attachments/assets/7f714999-cff3-4c47-a38d-717a05b96133)
+
+- Query 4;Calculate total Revenue per Product
+![Screenshot (23)](https://github.com/user-attachments/assets/e85e269f-dc2d-4c1b-977b-95d1c5451d6f)
+
+- Query 5;Calculate Monthly sales totals for the current year
+![Screenshot (24)](https://github.com/user-attachments/assets/c711d666-1e70-4d02-9f20-3b3774091f9b)
+
+- Query 6;Find the Top 5 Customers by Total Purchase Amount
+![Screenshot (25)](https://github.com/user-attachments/assets/11fa45c6-7e88-4bbb-8e00-b1c09fbd4c2b)
+
+- Query 7;Calculate the Percentage(%) of Total Sales contributed by each Region
+![Screenshot (26)](https://github.com/user-attachments/assets/c32308ad-4fa1-4cb7-8ad7-cb01a9868445)
+
+- Query 8;Identify products with no sales in the Last Quarter
+![Screenshot (27)](https://github.com/user-attachments/assets/7f7363d7-23e7-4f38-a838-ddfa18704ffb)
+
+
+
+
